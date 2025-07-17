@@ -18,12 +18,15 @@ This is a self playing game, where a dog needs to do his best to keep as many sh
 
 ### Dog
 
+<img src="./resources/images/chien_fixe.png" alt="Dog" width="100">
 
 The dog has two main states:
 * Idle: In this state, the dog patrols around the enclosure.
 * Bark: Here, the dog will bark at any escaped sheep.
 
 ### Sheep
+
+<img src="./resources/images/mouton_fixe.png" alt="Dog" width="100">
 
 Sheep have three main states:
 * Idle: Walking around aimlessly in their enclosure.
