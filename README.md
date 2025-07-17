@@ -26,7 +26,7 @@ The dog has two main states:
 
 ### Sheep
 
-<img src="./resources/images/mouton_fixe.png" alt="Dog" width="100">
+<img src="./resources/images/mouton_fixe.png" alt="Sheep" width="100">
 
 Sheep have three main states:
 * Idle: Walking around aimlessly in their enclosure.
